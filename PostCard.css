@@ -40,6 +40,11 @@ body{
     
     border-radius: 15px 15px 0 0;
 }
+
+.postcardTop h1 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
 .message{
     position: absolute;
     bottom: 20px;
