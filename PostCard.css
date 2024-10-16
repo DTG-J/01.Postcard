@@ -32,7 +32,7 @@ body{
 
 .postcardTop{
     position: relative;
-    padding:  20px 20px 0 20px;
+    padding:20px;
 
 }
 .postcardTop >img {
@@ -47,7 +47,7 @@ body{
 }
 .message{
     position: absolute;
-    bottom: 20px;
+    bottom: 40px;
     background: #ede8e8;
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
